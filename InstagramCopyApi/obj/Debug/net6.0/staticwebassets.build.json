@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "XDgd76ew/+p3XIPqsllP1n8kyZApplOv3hFOHVzRhCo=",
+  "Source": "InstagramCopyApi",
+  "BasePath": "_content/InstagramCopyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InstagramCopyApi\\wwwroot",
+      "Source": "InstagramCopyApi",
+      "ContentRoot": "D:\\Programirane\\C#\\InstagramCopyApi\\InstagramCopyApi\\wwwroot\\",
+      "BasePath": "_content/InstagramCopyApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Programirane\\C#\\InstagramCopyApi\\InstagramCopyApi\\wwwroot\\Media\\deafultUser.png",
+      "SourceId": "InstagramCopyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programirane\\C#\\InstagramCopyApi\\InstagramCopyApi\\wwwroot\\",
+      "BasePath": "_content/InstagramCopyApi",
+      "RelativePath": "Media/deafultUser.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\deafultUser.png"
+    }
+  ]
+}

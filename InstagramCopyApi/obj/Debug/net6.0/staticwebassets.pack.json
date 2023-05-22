@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programirane\\C#\\InstagramCopyApi\\InstagramCopyApi\\wwwroot\\Media\\deafultUser.png",
+      "PackagePath": "staticwebassets\\Media\\deafultUser.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.InstagramCopyApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.InstagramCopyApi.props",
+      "PackagePath": "build\\InstagramCopyApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.InstagramCopyApi.props",
+      "PackagePath": "buildMultiTargeting\\InstagramCopyApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.InstagramCopyApi.props",
+      "PackagePath": "buildTransitive\\InstagramCopyApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
